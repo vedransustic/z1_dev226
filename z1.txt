@@ -1,0 +1,64 @@
+git version 2.43.0
+user.name=Vedran Sustic
+user.email=susticvedran005@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:vedransustic/z1_dev226.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+commit dadcce60380db59b423bb24f8c2def79ba6a5cc0
+Author: Vedran Sustic <susticvedran005@gmail.com>
+Date:   Sun Nov 1 19:19:16 2026 +0000
+
+    1.4 datetime.log
+
+commit 08436803806be078c359cf42ce67deaca0de2b3b
+Author: Vedran Sustic <susticvedran005@gmail.com>
+Date:   Sun Nov 1 19:19:01 2026 +0000
+
+    1.3 datetime.log
+
+commit 7e9987c9b03a9247d0395de974b69aff20ac9748
+Author: Vedran Sustic <susticvedran005@gmail.com>
+Date:   Sun Nov 1 19:18:46 2026 +0000
+
+    1.2 datetime.log
+
+commit 741cfc536adc59fbf0153cb6bb523c9983622673
+Author: Vedran Sustic <susticvedran005@gmail.com>
+Date:   Sun Nov 1 19:18:23 2026 +0000
+
+    1.1 datetime.log
+
+commit 6c5819fd7814b2d08e7a07e731e7e1bd4441b121
+Author: Vedran Sustic <susticvedran005@gmail.com>
+Date:   Sun Nov 1 19:16:29 2026 +0000
+
+    Inicijalni commit datetime.loga
+
+commit 4224025a902d479666459f4e6fbd57ef6f4dd1ff
+Author: Vedran Sustic <susticvedran005@gmail.com>
+Date:   Sun Nov 1 19:00:12 2026 +0000
+
+    Inicijalni commit z1
+dadcce6 1.4 datetime.log
+0843680 1.3 datetime.log
+7e9987c 1.2 datetime.log
+741cfc5 1.1 datetime.log
+6c5819f Inicijalni commit datetime.loga
+4224025 Inicijalni commit z1
+* remote origin
+  Fetch URL: git@github.com:vedransustic/z1_dev226.git
+  Push  URL: git@github.com:vedransustic/z1_dev226.git
+  HEAD branch: main
+  Remote branch:
+    main tracked
+  Local branch configured for 'git pull':
+    main merges with remote main
+  Local ref configured for 'git push':
+    main pushes to main (up to date)
+origin	git@github.com:vedransustic/z1_dev226.git (fetch)
+origin	git@github.com:vedransustic/z1_dev226.git (push)
